@@ -1927,18 +1927,19 @@
     ],
     "desertlar": [
         {
+            "category":"desertlar",
             "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_ad0d3c2bd3dfd02d2291c92b3da4b380.jpg",
             "title": "Tiramisu",
             "price": "7",
             "id": "LqUOx499IGm5KS69gzWCW"
         },
-        {
+        {"category":"desertlar",
             "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_1586374dc56f6447a659ff607eb2ff25.jpg",
             "title": "Şokoladlı Sufle",
             "price": "5",
             "id": "Rl_H4YpvxFumTx-sND0V5"
         },
-        {
+        {"category":"desertlar",
             "img": "https://order.papajohns.az/images/menu/PJ%20Azerbaijan/336x224_cea02388c7e67f4ca204e3ee470e819f.jpg",
             "title": "Dondurma",
             "price": "2",
